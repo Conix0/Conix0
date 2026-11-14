@@ -95,7 +95,7 @@
     alt="English" 
   />
   <img 
-    src="https://img.shields.io/badge/Chinese-Basic-red?style=for-the-badge" 
+    src="https://img.shields.io/badge/Chinese-Basic-blue?style=for-the-badge" 
     alt="Spanish" 
   />
 </p>
@@ -119,6 +119,3 @@
 </p>
 
 
-------
-**Créditos:** [tuusuario](https://github.com/tuusuario)  
-**Última edición:** 29/10/2023
