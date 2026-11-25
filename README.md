@@ -25,10 +25,6 @@
     alt="C++" 
   />
   <img 
-    src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" 
-    alt="C" 
-  />
-  <img 
     src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" 
     alt="C#" 
   />
@@ -41,8 +37,8 @@
     alt="HTML5" 
   />
   <img 
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-    alt="CSS3" 
+    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
+    alt="CSS" 
   />
   <img 
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
@@ -62,10 +58,6 @@
   <img 
     src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" 
     alt="Visual Studio" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" 
-    alt="VS Code" 
   />
   <img 
     src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" 
